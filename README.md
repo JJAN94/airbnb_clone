@@ -18,7 +18,9 @@ Tools : VS Code
 
 ### 버전
 
-python 
+python 3.9
+
+Django 2.2.5
 
 
 
